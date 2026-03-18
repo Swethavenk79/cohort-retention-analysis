@@ -1,0 +1,2147 @@
+{
+  "summary": {
+    "total_users": 3000,
+    "total_events": 65493,
+    "total_revenue": 39249.22,
+    "onboarding_completion_rate": 59.7,
+    "avg_ltv": 13.08,
+    "date_range": {
+      "start": "Jan 2023",
+      "end": "Sep 2024"
+    }
+  },
+  "retention_matrix": [
+    {
+      "cohort": "2023-01",
+      "period": 0,
+      "retention": 100.0,
+      "cohort_size": 4
+    },
+    {
+      "cohort": "2023-01",
+      "period": 1,
+      "retention": 100.0,
+      "cohort_size": 4
+    },
+    {
+      "cohort": "2023-01",
+      "period": 2,
+      "retention": 100.0,
+      "cohort_size": 4
+    },
+    {
+      "cohort": "2023-01",
+      "period": 3,
+      "retention": 50.0,
+      "cohort_size": 4
+    },
+    {
+      "cohort": "2023-01",
+      "period": 4,
+      "retention": 25.0,
+      "cohort_size": 4
+    },
+    {
+      "cohort": "2023-01",
+      "period": 5,
+      "retention": 75.0,
+      "cohort_size": 4
+    },
+    {
+      "cohort": "2023-01",
+      "period": 6,
+      "retention": 50.0,
+      "cohort_size": 4
+    },
+    {
+      "cohort": "2023-01",
+      "period": 7,
+      "retention": 50.0,
+      "cohort_size": 4
+    },
+    {
+      "cohort": "2023-01",
+      "period": 8,
+      "retention": 75.0,
+      "cohort_size": 4
+    },
+    {
+      "cohort": "2023-01",
+      "period": 9,
+      "retention": 100.0,
+      "cohort_size": 4
+    },
+    {
+      "cohort": "2023-01",
+      "period": 10,
+      "retention": 75.0,
+      "cohort_size": 4
+    },
+    {
+      "cohort": "2023-01",
+      "period": 11,
+      "retention": 100.0,
+      "cohort_size": 4
+    },
+    {
+      "cohort": "2023-01",
+      "period": 12,
+      "retention": 25.0,
+      "cohort_size": 4
+    },
+    {
+      "cohort": "2023-01",
+      "period": 13,
+      "retention": 50.0,
+      "cohort_size": 4
+    },
+    {
+      "cohort": "2023-01",
+      "period": 14,
+      "retention": 100.0,
+      "cohort_size": 4
+    },
+    {
+      "cohort": "2023-01",
+      "period": 15,
+      "retention": 75.0,
+      "cohort_size": 4
+    },
+    {
+      "cohort": "2023-01",
+      "period": 16,
+      "retention": 75.0,
+      "cohort_size": 4
+    },
+    {
+      "cohort": "2023-01",
+      "period": 17,
+      "retention": 75.0,
+      "cohort_size": 4
+    },
+    {
+      "cohort": "2023-01",
+      "period": 18,
+      "retention": 75.0,
+      "cohort_size": 4
+    },
+    {
+      "cohort": "2023-01",
+      "period": 19,
+      "retention": 25.0,
+      "cohort_size": 4
+    },
+    {
+      "cohort": "2023-01",
+      "period": 20,
+      "retention": 75.0,
+      "cohort_size": 4
+    },
+    {
+      "cohort": "2023-02",
+      "period": 0,
+      "retention": 100.0,
+      "cohort_size": 18
+    },
+    {
+      "cohort": "2023-02",
+      "period": 1,
+      "retention": 88.9,
+      "cohort_size": 18
+    },
+    {
+      "cohort": "2023-02",
+      "period": 2,
+      "retention": 94.4,
+      "cohort_size": 18
+    },
+    {
+      "cohort": "2023-02",
+      "period": 3,
+      "retention": 61.1,
+      "cohort_size": 18
+    },
+    {
+      "cohort": "2023-02",
+      "period": 4,
+      "retention": 72.2,
+      "cohort_size": 18
+    },
+    {
+      "cohort": "2023-02",
+      "period": 5,
+      "retention": 83.3,
+      "cohort_size": 18
+    },
+    {
+      "cohort": "2023-02",
+      "period": 6,
+      "retention": 72.2,
+      "cohort_size": 18
+    },
+    {
+      "cohort": "2023-02",
+      "period": 7,
+      "retention": 88.9,
+      "cohort_size": 18
+    },
+    {
+      "cohort": "2023-02",
+      "period": 8,
+      "retention": 83.3,
+      "cohort_size": 18
+    },
+    {
+      "cohort": "2023-02",
+      "period": 9,
+      "retention": 77.8,
+      "cohort_size": 18
+    },
+    {
+      "cohort": "2023-02",
+      "period": 10,
+      "retention": 83.3,
+      "cohort_size": 18
+    },
+    {
+      "cohort": "2023-02",
+      "period": 11,
+      "retention": 77.8,
+      "cohort_size": 18
+    },
+    {
+      "cohort": "2023-02",
+      "period": 12,
+      "retention": 66.7,
+      "cohort_size": 18
+    },
+    {
+      "cohort": "2023-02",
+      "period": 13,
+      "retention": 77.8,
+      "cohort_size": 18
+    },
+    {
+      "cohort": "2023-02",
+      "period": 14,
+      "retention": 83.3,
+      "cohort_size": 18
+    },
+    {
+      "cohort": "2023-02",
+      "period": 15,
+      "retention": 83.3,
+      "cohort_size": 18
+    },
+    {
+      "cohort": "2023-02",
+      "period": 16,
+      "retention": 83.3,
+      "cohort_size": 18
+    },
+    {
+      "cohort": "2023-02",
+      "period": 17,
+      "retention": 94.4,
+      "cohort_size": 18
+    },
+    {
+      "cohort": "2023-02",
+      "period": 18,
+      "retention": 77.8,
+      "cohort_size": 18
+    },
+    {
+      "cohort": "2023-02",
+      "period": 19,
+      "retention": 66.7,
+      "cohort_size": 18
+    },
+    {
+      "cohort": "2023-03",
+      "period": 0,
+      "retention": 97.3,
+      "cohort_size": 37
+    },
+    {
+      "cohort": "2023-03",
+      "period": 1,
+      "retention": 86.5,
+      "cohort_size": 37
+    },
+    {
+      "cohort": "2023-03",
+      "period": 2,
+      "retention": 97.3,
+      "cohort_size": 37
+    },
+    {
+      "cohort": "2023-03",
+      "period": 3,
+      "retention": 75.7,
+      "cohort_size": 37
+    },
+    {
+      "cohort": "2023-03",
+      "period": 4,
+      "retention": 81.1,
+      "cohort_size": 37
+    },
+    {
+      "cohort": "2023-03",
+      "period": 5,
+      "retention": 75.7,
+      "cohort_size": 37
+    },
+    {
+      "cohort": "2023-03",
+      "period": 6,
+      "retention": 78.4,
+      "cohort_size": 37
+    },
+    {
+      "cohort": "2023-03",
+      "period": 7,
+      "retention": 81.1,
+      "cohort_size": 37
+    },
+    {
+      "cohort": "2023-03",
+      "period": 8,
+      "retention": 62.2,
+      "cohort_size": 37
+    },
+    {
+      "cohort": "2023-03",
+      "period": 9,
+      "retention": 75.7,
+      "cohort_size": 37
+    },
+    {
+      "cohort": "2023-03",
+      "period": 10,
+      "retention": 67.6,
+      "cohort_size": 37
+    },
+    {
+      "cohort": "2023-03",
+      "period": 11,
+      "retention": 67.6,
+      "cohort_size": 37
+    },
+    {
+      "cohort": "2023-03",
+      "period": 12,
+      "retention": 75.7,
+      "cohort_size": 37
+    },
+    {
+      "cohort": "2023-03",
+      "period": 13,
+      "retention": 78.4,
+      "cohort_size": 37
+    },
+    {
+      "cohort": "2023-03",
+      "period": 14,
+      "retention": 64.9,
+      "cohort_size": 37
+    },
+    {
+      "cohort": "2023-03",
+      "period": 15,
+      "retention": 81.1,
+      "cohort_size": 37
+    },
+    {
+      "cohort": "2023-03",
+      "period": 16,
+      "retention": 70.3,
+      "cohort_size": 37
+    },
+    {
+      "cohort": "2023-03",
+      "period": 17,
+      "retention": 75.7,
+      "cohort_size": 37
+    },
+    {
+      "cohort": "2023-03",
+      "period": 18,
+      "retention": 75.7,
+      "cohort_size": 37
+    },
+    {
+      "cohort": "2023-03",
+      "period": 19,
+      "retention": 8.1,
+      "cohort_size": 37
+    },
+    {
+      "cohort": "2023-04",
+      "period": 0,
+      "retention": 98.0,
+      "cohort_size": 49
+    },
+    {
+      "cohort": "2023-04",
+      "period": 1,
+      "retention": 100.0,
+      "cohort_size": 49
+    },
+    {
+      "cohort": "2023-04",
+      "period": 2,
+      "retention": 89.8,
+      "cohort_size": 49
+    },
+    {
+      "cohort": "2023-04",
+      "period": 3,
+      "retention": 91.8,
+      "cohort_size": 49
+    },
+    {
+      "cohort": "2023-04",
+      "period": 4,
+      "retention": 71.4,
+      "cohort_size": 49
+    },
+    {
+      "cohort": "2023-04",
+      "period": 5,
+      "retention": 77.6,
+      "cohort_size": 49
+    },
+    {
+      "cohort": "2023-04",
+      "period": 6,
+      "retention": 83.7,
+      "cohort_size": 49
+    },
+    {
+      "cohort": "2023-04",
+      "period": 7,
+      "retention": 85.7,
+      "cohort_size": 49
+    },
+    {
+      "cohort": "2023-04",
+      "period": 8,
+      "retention": 75.5,
+      "cohort_size": 49
+    },
+    {
+      "cohort": "2023-04",
+      "period": 9,
+      "retention": 75.5,
+      "cohort_size": 49
+    },
+    {
+      "cohort": "2023-04",
+      "period": 10,
+      "retention": 75.5,
+      "cohort_size": 49
+    },
+    {
+      "cohort": "2023-04",
+      "period": 11,
+      "retention": 71.4,
+      "cohort_size": 49
+    },
+    {
+      "cohort": "2023-04",
+      "period": 12,
+      "retention": 79.6,
+      "cohort_size": 49
+    },
+    {
+      "cohort": "2023-04",
+      "period": 13,
+      "retention": 71.4,
+      "cohort_size": 49
+    },
+    {
+      "cohort": "2023-04",
+      "period": 14,
+      "retention": 81.6,
+      "cohort_size": 49
+    },
+    {
+      "cohort": "2023-04",
+      "period": 15,
+      "retention": 79.6,
+      "cohort_size": 49
+    },
+    {
+      "cohort": "2023-04",
+      "period": 16,
+      "retention": 89.8,
+      "cohort_size": 49
+    },
+    {
+      "cohort": "2023-04",
+      "period": 17,
+      "retention": 75.5,
+      "cohort_size": 49
+    },
+    {
+      "cohort": "2023-04",
+      "period": 18,
+      "retention": 6.1,
+      "cohort_size": 49
+    },
+    {
+      "cohort": "2023-05",
+      "period": 0,
+      "retention": 100.0,
+      "cohort_size": 69
+    },
+    {
+      "cohort": "2023-05",
+      "period": 1,
+      "retention": 94.2,
+      "cohort_size": 69
+    },
+    {
+      "cohort": "2023-05",
+      "period": 2,
+      "retention": 79.7,
+      "cohort_size": 69
+    },
+    {
+      "cohort": "2023-05",
+      "period": 3,
+      "retention": 76.8,
+      "cohort_size": 69
+    },
+    {
+      "cohort": "2023-05",
+      "period": 4,
+      "retention": 73.9,
+      "cohort_size": 69
+    },
+    {
+      "cohort": "2023-05",
+      "period": 5,
+      "retention": 78.3,
+      "cohort_size": 69
+    },
+    {
+      "cohort": "2023-05",
+      "period": 6,
+      "retention": 71.0,
+      "cohort_size": 69
+    },
+    {
+      "cohort": "2023-05",
+      "period": 7,
+      "retention": 82.6,
+      "cohort_size": 69
+    },
+    {
+      "cohort": "2023-05",
+      "period": 8,
+      "retention": 75.4,
+      "cohort_size": 69
+    },
+    {
+      "cohort": "2023-05",
+      "period": 9,
+      "retention": 72.5,
+      "cohort_size": 69
+    },
+    {
+      "cohort": "2023-05",
+      "period": 10,
+      "retention": 68.1,
+      "cohort_size": 69
+    },
+    {
+      "cohort": "2023-05",
+      "period": 11,
+      "retention": 79.7,
+      "cohort_size": 69
+    },
+    {
+      "cohort": "2023-05",
+      "period": 12,
+      "retention": 76.8,
+      "cohort_size": 69
+    },
+    {
+      "cohort": "2023-05",
+      "period": 13,
+      "retention": 76.8,
+      "cohort_size": 69
+    },
+    {
+      "cohort": "2023-05",
+      "period": 14,
+      "retention": 79.7,
+      "cohort_size": 69
+    },
+    {
+      "cohort": "2023-05",
+      "period": 15,
+      "retention": 75.4,
+      "cohort_size": 69
+    },
+    {
+      "cohort": "2023-05",
+      "period": 16,
+      "retention": 68.1,
+      "cohort_size": 69
+    },
+    {
+      "cohort": "2023-05",
+      "period": 17,
+      "retention": 7.2,
+      "cohort_size": 69
+    },
+    {
+      "cohort": "2023-06",
+      "period": 0,
+      "retention": 100.0,
+      "cohort_size": 71
+    },
+    {
+      "cohort": "2023-06",
+      "period": 1,
+      "retention": 95.8,
+      "cohort_size": 71
+    },
+    {
+      "cohort": "2023-06",
+      "period": 2,
+      "retention": 90.1,
+      "cohort_size": 71
+    },
+    {
+      "cohort": "2023-06",
+      "period": 3,
+      "retention": 76.1,
+      "cohort_size": 71
+    },
+    {
+      "cohort": "2023-06",
+      "period": 4,
+      "retention": 81.7,
+      "cohort_size": 71
+    },
+    {
+      "cohort": "2023-06",
+      "period": 5,
+      "retention": 71.8,
+      "cohort_size": 71
+    },
+    {
+      "cohort": "2023-06",
+      "period": 6,
+      "retention": 69.0,
+      "cohort_size": 71
+    },
+    {
+      "cohort": "2023-06",
+      "period": 7,
+      "retention": 80.3,
+      "cohort_size": 71
+    },
+    {
+      "cohort": "2023-06",
+      "period": 8,
+      "retention": 76.1,
+      "cohort_size": 71
+    },
+    {
+      "cohort": "2023-06",
+      "period": 9,
+      "retention": 77.5,
+      "cohort_size": 71
+    },
+    {
+      "cohort": "2023-06",
+      "period": 10,
+      "retention": 71.8,
+      "cohort_size": 71
+    },
+    {
+      "cohort": "2023-06",
+      "period": 11,
+      "retention": 80.3,
+      "cohort_size": 71
+    },
+    {
+      "cohort": "2023-06",
+      "period": 12,
+      "retention": 76.1,
+      "cohort_size": 71
+    },
+    {
+      "cohort": "2023-06",
+      "period": 13,
+      "retention": 78.9,
+      "cohort_size": 71
+    },
+    {
+      "cohort": "2023-06",
+      "period": 14,
+      "retention": 74.6,
+      "cohort_size": 71
+    },
+    {
+      "cohort": "2023-06",
+      "period": 15,
+      "retention": 67.6,
+      "cohort_size": 71
+    },
+    {
+      "cohort": "2023-06",
+      "period": 16,
+      "retention": 5.6,
+      "cohort_size": 71
+    },
+    {
+      "cohort": "2023-07",
+      "period": 0,
+      "retention": 98.9,
+      "cohort_size": 95
+    },
+    {
+      "cohort": "2023-07",
+      "period": 1,
+      "retention": 96.8,
+      "cohort_size": 95
+    },
+    {
+      "cohort": "2023-07",
+      "period": 2,
+      "retention": 89.5,
+      "cohort_size": 95
+    },
+    {
+      "cohort": "2023-07",
+      "period": 3,
+      "retention": 83.2,
+      "cohort_size": 95
+    },
+    {
+      "cohort": "2023-07",
+      "period": 4,
+      "retention": 78.9,
+      "cohort_size": 95
+    },
+    {
+      "cohort": "2023-07",
+      "period": 5,
+      "retention": 72.6,
+      "cohort_size": 95
+    },
+    {
+      "cohort": "2023-07",
+      "period": 6,
+      "retention": 75.8,
+      "cohort_size": 95
+    },
+    {
+      "cohort": "2023-07",
+      "period": 7,
+      "retention": 80.0,
+      "cohort_size": 95
+    },
+    {
+      "cohort": "2023-07",
+      "period": 8,
+      "retention": 76.8,
+      "cohort_size": 95
+    },
+    {
+      "cohort": "2023-07",
+      "period": 9,
+      "retention": 81.1,
+      "cohort_size": 95
+    },
+    {
+      "cohort": "2023-07",
+      "period": 10,
+      "retention": 78.9,
+      "cohort_size": 95
+    },
+    {
+      "cohort": "2023-07",
+      "period": 11,
+      "retention": 83.2,
+      "cohort_size": 95
+    },
+    {
+      "cohort": "2023-07",
+      "period": 12,
+      "retention": 77.9,
+      "cohort_size": 95
+    },
+    {
+      "cohort": "2023-07",
+      "period": 13,
+      "retention": 74.7,
+      "cohort_size": 95
+    },
+    {
+      "cohort": "2023-07",
+      "period": 14,
+      "retention": 66.3,
+      "cohort_size": 95
+    },
+    {
+      "cohort": "2023-07",
+      "period": 15,
+      "retention": 4.2,
+      "cohort_size": 95
+    },
+    {
+      "cohort": "2023-08",
+      "period": 0,
+      "retention": 99.0,
+      "cohort_size": 105
+    },
+    {
+      "cohort": "2023-08",
+      "period": 1,
+      "retention": 94.3,
+      "cohort_size": 105
+    },
+    {
+      "cohort": "2023-08",
+      "period": 2,
+      "retention": 89.5,
+      "cohort_size": 105
+    },
+    {
+      "cohort": "2023-08",
+      "period": 3,
+      "retention": 79.0,
+      "cohort_size": 105
+    },
+    {
+      "cohort": "2023-08",
+      "period": 4,
+      "retention": 83.8,
+      "cohort_size": 105
+    },
+    {
+      "cohort": "2023-08",
+      "period": 5,
+      "retention": 80.0,
+      "cohort_size": 105
+    },
+    {
+      "cohort": "2023-08",
+      "period": 6,
+      "retention": 78.1,
+      "cohort_size": 105
+    },
+    {
+      "cohort": "2023-08",
+      "period": 7,
+      "retention": 80.0,
+      "cohort_size": 105
+    },
+    {
+      "cohort": "2023-08",
+      "period": 8,
+      "retention": 81.0,
+      "cohort_size": 105
+    },
+    {
+      "cohort": "2023-08",
+      "period": 9,
+      "retention": 76.2,
+      "cohort_size": 105
+    },
+    {
+      "cohort": "2023-08",
+      "period": 10,
+      "retention": 72.4,
+      "cohort_size": 105
+    },
+    {
+      "cohort": "2023-08",
+      "period": 11,
+      "retention": 78.1,
+      "cohort_size": 105
+    },
+    {
+      "cohort": "2023-08",
+      "period": 12,
+      "retention": 77.1,
+      "cohort_size": 105
+    },
+    {
+      "cohort": "2023-08",
+      "period": 13,
+      "retention": 65.7,
+      "cohort_size": 105
+    },
+    {
+      "cohort": "2023-08",
+      "period": 14,
+      "retention": 4.8,
+      "cohort_size": 105
+    },
+    {
+      "cohort": "2023-09",
+      "period": 0,
+      "retention": 98.1,
+      "cohort_size": 104
+    },
+    {
+      "cohort": "2023-09",
+      "period": 1,
+      "retention": 95.2,
+      "cohort_size": 104
+    },
+    {
+      "cohort": "2023-09",
+      "period": 2,
+      "retention": 95.2,
+      "cohort_size": 104
+    },
+    {
+      "cohort": "2023-09",
+      "period": 3,
+      "retention": 82.7,
+      "cohort_size": 104
+    },
+    {
+      "cohort": "2023-09",
+      "period": 4,
+      "retention": 79.8,
+      "cohort_size": 104
+    },
+    {
+      "cohort": "2023-09",
+      "period": 5,
+      "retention": 74.0,
+      "cohort_size": 104
+    },
+    {
+      "cohort": "2023-09",
+      "period": 6,
+      "retention": 78.8,
+      "cohort_size": 104
+    },
+    {
+      "cohort": "2023-09",
+      "period": 7,
+      "retention": 81.7,
+      "cohort_size": 104
+    },
+    {
+      "cohort": "2023-09",
+      "period": 8,
+      "retention": 74.0,
+      "cohort_size": 104
+    },
+    {
+      "cohort": "2023-09",
+      "period": 9,
+      "retention": 83.7,
+      "cohort_size": 104
+    },
+    {
+      "cohort": "2023-09",
+      "period": 10,
+      "retention": 77.9,
+      "cohort_size": 104
+    },
+    {
+      "cohort": "2023-09",
+      "period": 11,
+      "retention": 76.9,
+      "cohort_size": 104
+    },
+    {
+      "cohort": "2023-09",
+      "period": 12,
+      "retention": 61.5,
+      "cohort_size": 104
+    },
+    {
+      "cohort": "2023-09",
+      "period": 13,
+      "retention": 3.8,
+      "cohort_size": 104
+    },
+    {
+      "cohort": "2023-10",
+      "period": 0,
+      "retention": 98.7,
+      "cohort_size": 151
+    },
+    {
+      "cohort": "2023-10",
+      "period": 1,
+      "retention": 96.7,
+      "cohort_size": 151
+    },
+    {
+      "cohort": "2023-10",
+      "period": 2,
+      "retention": 89.4,
+      "cohort_size": 151
+    },
+    {
+      "cohort": "2023-10",
+      "period": 3,
+      "retention": 70.9,
+      "cohort_size": 151
+    },
+    {
+      "cohort": "2023-10",
+      "period": 4,
+      "retention": 78.1,
+      "cohort_size": 151
+    },
+    {
+      "cohort": "2023-10",
+      "period": 5,
+      "retention": 80.1,
+      "cohort_size": 151
+    },
+    {
+      "cohort": "2023-10",
+      "period": 6,
+      "retention": 78.8,
+      "cohort_size": 151
+    },
+    {
+      "cohort": "2023-10",
+      "period": 7,
+      "retention": 78.1,
+      "cohort_size": 151
+    },
+    {
+      "cohort": "2023-10",
+      "period": 8,
+      "retention": 78.1,
+      "cohort_size": 151
+    },
+    {
+      "cohort": "2023-10",
+      "period": 9,
+      "retention": 82.1,
+      "cohort_size": 151
+    },
+    {
+      "cohort": "2023-10",
+      "period": 10,
+      "retention": 79.5,
+      "cohort_size": 151
+    },
+    {
+      "cohort": "2023-10",
+      "period": 11,
+      "retention": 59.6,
+      "cohort_size": 151
+    },
+    {
+      "cohort": "2023-10",
+      "period": 12,
+      "retention": 1.3,
+      "cohort_size": 151
+    },
+    {
+      "cohort": "2023-11",
+      "period": 0,
+      "retention": 97.3,
+      "cohort_size": 110
+    },
+    {
+      "cohort": "2023-11",
+      "period": 1,
+      "retention": 92.7,
+      "cohort_size": 110
+    },
+    {
+      "cohort": "2023-11",
+      "period": 2,
+      "retention": 90.0,
+      "cohort_size": 110
+    },
+    {
+      "cohort": "2023-11",
+      "period": 3,
+      "retention": 82.7,
+      "cohort_size": 110
+    },
+    {
+      "cohort": "2023-11",
+      "period": 4,
+      "retention": 75.5,
+      "cohort_size": 110
+    },
+    {
+      "cohort": "2023-11",
+      "period": 5,
+      "retention": 80.9,
+      "cohort_size": 110
+    },
+    {
+      "cohort": "2023-11",
+      "period": 6,
+      "retention": 74.5,
+      "cohort_size": 110
+    },
+    {
+      "cohort": "2023-11",
+      "period": 7,
+      "retention": 80.0,
+      "cohort_size": 110
+    },
+    {
+      "cohort": "2023-11",
+      "period": 8,
+      "retention": 76.4,
+      "cohort_size": 110
+    },
+    {
+      "cohort": "2023-11",
+      "period": 9,
+      "retention": 79.1,
+      "cohort_size": 110
+    },
+    {
+      "cohort": "2023-11",
+      "period": 10,
+      "retention": 66.4,
+      "cohort_size": 110
+    },
+    {
+      "cohort": "2023-11",
+      "period": 11,
+      "retention": 3.6,
+      "cohort_size": 110
+    },
+    {
+      "cohort": "2023-12",
+      "period": 0,
+      "retention": 98.6,
+      "cohort_size": 147
+    },
+    {
+      "cohort": "2023-12",
+      "period": 1,
+      "retention": 94.6,
+      "cohort_size": 147
+    },
+    {
+      "cohort": "2023-12",
+      "period": 2,
+      "retention": 87.1,
+      "cohort_size": 147
+    },
+    {
+      "cohort": "2023-12",
+      "period": 3,
+      "retention": 77.6,
+      "cohort_size": 147
+    },
+    {
+      "cohort": "2023-12",
+      "period": 4,
+      "retention": 79.6,
+      "cohort_size": 147
+    },
+    {
+      "cohort": "2023-12",
+      "period": 5,
+      "retention": 72.1,
+      "cohort_size": 147
+    },
+    {
+      "cohort": "2023-12",
+      "period": 6,
+      "retention": 78.9,
+      "cohort_size": 147
+    },
+    {
+      "cohort": "2023-12",
+      "period": 7,
+      "retention": 78.2,
+      "cohort_size": 147
+    },
+    {
+      "cohort": "2023-12",
+      "period": 8,
+      "retention": 75.5,
+      "cohort_size": 147
+    },
+    {
+      "cohort": "2023-12",
+      "period": 9,
+      "retention": 61.9,
+      "cohort_size": 147
+    },
+    {
+      "cohort": "2023-12",
+      "period": 10,
+      "retention": 4.1,
+      "cohort_size": 147
+    },
+    {
+      "cohort": "2024-01",
+      "period": 0,
+      "retention": 100.0,
+      "cohort_size": 159
+    },
+    {
+      "cohort": "2024-01",
+      "period": 1,
+      "retention": 97.5,
+      "cohort_size": 159
+    },
+    {
+      "cohort": "2024-01",
+      "period": 2,
+      "retention": 90.6,
+      "cohort_size": 159
+    },
+    {
+      "cohort": "2024-01",
+      "period": 3,
+      "retention": 79.9,
+      "cohort_size": 159
+    },
+    {
+      "cohort": "2024-01",
+      "period": 4,
+      "retention": 79.2,
+      "cohort_size": 159
+    },
+    {
+      "cohort": "2024-01",
+      "period": 5,
+      "retention": 73.6,
+      "cohort_size": 159
+    },
+    {
+      "cohort": "2024-01",
+      "period": 6,
+      "retention": 76.7,
+      "cohort_size": 159
+    },
+    {
+      "cohort": "2024-01",
+      "period": 7,
+      "retention": 84.3,
+      "cohort_size": 159
+    },
+    {
+      "cohort": "2024-01",
+      "period": 8,
+      "retention": 57.2,
+      "cohort_size": 159
+    },
+    {
+      "cohort": "2024-01",
+      "period": 9,
+      "retention": 3.8,
+      "cohort_size": 159
+    },
+    {
+      "cohort": "2024-02",
+      "period": 0,
+      "retention": 99.5,
+      "cohort_size": 187
+    },
+    {
+      "cohort": "2024-02",
+      "period": 1,
+      "retention": 96.8,
+      "cohort_size": 187
+    },
+    {
+      "cohort": "2024-02",
+      "period": 2,
+      "retention": 89.8,
+      "cohort_size": 187
+    },
+    {
+      "cohort": "2024-02",
+      "period": 3,
+      "retention": 83.4,
+      "cohort_size": 187
+    },
+    {
+      "cohort": "2024-02",
+      "period": 4,
+      "retention": 82.4,
+      "cohort_size": 187
+    },
+    {
+      "cohort": "2024-02",
+      "period": 5,
+      "retention": 86.1,
+      "cohort_size": 187
+    },
+    {
+      "cohort": "2024-02",
+      "period": 6,
+      "retention": 82.4,
+      "cohort_size": 187
+    },
+    {
+      "cohort": "2024-02",
+      "period": 7,
+      "retention": 64.7,
+      "cohort_size": 187
+    },
+    {
+      "cohort": "2024-02",
+      "period": 8,
+      "retention": 1.6,
+      "cohort_size": 187
+    },
+    {
+      "cohort": "2024-03",
+      "period": 0,
+      "retention": 99.0,
+      "cohort_size": 200
+    },
+    {
+      "cohort": "2024-03",
+      "period": 1,
+      "retention": 95.0,
+      "cohort_size": 200
+    },
+    {
+      "cohort": "2024-03",
+      "period": 2,
+      "retention": 90.5,
+      "cohort_size": 200
+    },
+    {
+      "cohort": "2024-03",
+      "period": 3,
+      "retention": 79.5,
+      "cohort_size": 200
+    },
+    {
+      "cohort": "2024-03",
+      "period": 4,
+      "retention": 80.0,
+      "cohort_size": 200
+    },
+    {
+      "cohort": "2024-03",
+      "period": 5,
+      "retention": 83.0,
+      "cohort_size": 200
+    },
+    {
+      "cohort": "2024-03",
+      "period": 6,
+      "retention": 54.5,
+      "cohort_size": 200
+    },
+    {
+      "cohort": "2024-03",
+      "period": 7,
+      "retention": 1.5,
+      "cohort_size": 200
+    },
+    {
+      "cohort": "2024-04",
+      "period": 0,
+      "retention": 98.5,
+      "cohort_size": 201
+    },
+    {
+      "cohort": "2024-04",
+      "period": 1,
+      "retention": 97.0,
+      "cohort_size": 201
+    },
+    {
+      "cohort": "2024-04",
+      "period": 2,
+      "retention": 88.6,
+      "cohort_size": 201
+    },
+    {
+      "cohort": "2024-04",
+      "period": 3,
+      "retention": 82.1,
+      "cohort_size": 201
+    },
+    {
+      "cohort": "2024-04",
+      "period": 4,
+      "retention": 84.1,
+      "cohort_size": 201
+    },
+    {
+      "cohort": "2024-04",
+      "period": 5,
+      "retention": 61.2,
+      "cohort_size": 201
+    },
+    {
+      "cohort": "2024-04",
+      "period": 6,
+      "retention": 2.5,
+      "cohort_size": 201
+    },
+    {
+      "cohort": "2024-05",
+      "period": 0,
+      "retention": 99.1,
+      "cohort_size": 223
+    },
+    {
+      "cohort": "2024-05",
+      "period": 1,
+      "retention": 96.9,
+      "cohort_size": 223
+    },
+    {
+      "cohort": "2024-05",
+      "period": 2,
+      "retention": 91.9,
+      "cohort_size": 223
+    },
+    {
+      "cohort": "2024-05",
+      "period": 3,
+      "retention": 87.9,
+      "cohort_size": 223
+    },
+    {
+      "cohort": "2024-05",
+      "period": 4,
+      "retention": 59.2,
+      "cohort_size": 223
+    },
+    {
+      "cohort": "2024-05",
+      "period": 5,
+      "retention": 1.3,
+      "cohort_size": 223
+    },
+    {
+      "cohort": "2024-06",
+      "period": 0,
+      "retention": 100.0,
+      "cohort_size": 237
+    },
+    {
+      "cohort": "2024-06",
+      "period": 1,
+      "retention": 97.5,
+      "cohort_size": 237
+    },
+    {
+      "cohort": "2024-06",
+      "period": 2,
+      "retention": 94.1,
+      "cohort_size": 237
+    },
+    {
+      "cohort": "2024-06",
+      "period": 3,
+      "retention": 57.4,
+      "cohort_size": 237
+    },
+    {
+      "cohort": "2024-06",
+      "period": 4,
+      "retention": 0.8,
+      "cohort_size": 237
+    },
+    {
+      "cohort": "2024-07",
+      "period": 0,
+      "retention": 99.6,
+      "cohort_size": 277
+    },
+    {
+      "cohort": "2024-07",
+      "period": 1,
+      "retention": 96.8,
+      "cohort_size": 277
+    },
+    {
+      "cohort": "2024-07",
+      "period": 2,
+      "retention": 75.1,
+      "cohort_size": 277
+    },
+    {
+      "cohort": "2024-07",
+      "period": 3,
+      "retention": 1.4,
+      "cohort_size": 277
+    },
+    {
+      "cohort": "2024-08",
+      "period": 0,
+      "retention": 99.6,
+      "cohort_size": 283
+    },
+    {
+      "cohort": "2024-08",
+      "period": 1,
+      "retention": 74.6,
+      "cohort_size": 283
+    },
+    {
+      "cohort": "2024-08",
+      "period": 2,
+      "retention": 0.4,
+      "cohort_size": 283
+    },
+    {
+      "cohort": "2024-09",
+      "period": 0,
+      "retention": 93.8,
+      "cohort_size": 273
+    }
+  ],
+  "retention_curves": [
+    {
+      "cohort": "2023-01",
+      "data": [
+        {
+          "month": 0,
+          "retention": 100.0
+        },
+        {
+          "month": 1,
+          "retention": 100.0
+        },
+        {
+          "month": 2,
+          "retention": 100.0
+        },
+        {
+          "month": 3,
+          "retention": 50.0
+        },
+        {
+          "month": 4,
+          "retention": 25.0
+        },
+        {
+          "month": 5,
+          "retention": 75.0
+        },
+        {
+          "month": 6,
+          "retention": 50.0
+        },
+        {
+          "month": 7,
+          "retention": 50.0
+        },
+        {
+          "month": 8,
+          "retention": 75.0
+        },
+        {
+          "month": 9,
+          "retention": 100.0
+        },
+        {
+          "month": 10,
+          "retention": 75.0
+        },
+        {
+          "month": 11,
+          "retention": 100.0
+        },
+        {
+          "month": 12,
+          "retention": 25.0
+        },
+        {
+          "month": 13,
+          "retention": 50.0
+        },
+        {
+          "month": 14,
+          "retention": 100.0
+        },
+        {
+          "month": 15,
+          "retention": 75.0
+        },
+        {
+          "month": 16,
+          "retention": 75.0
+        },
+        {
+          "month": 17,
+          "retention": 75.0
+        },
+        {
+          "month": 18,
+          "retention": 75.0
+        },
+        {
+          "month": 19,
+          "retention": 25.0
+        },
+        {
+          "month": 20,
+          "retention": 75.0
+        }
+      ]
+    },
+    {
+      "cohort": "2023-02",
+      "data": [
+        {
+          "month": 0,
+          "retention": 100.0
+        },
+        {
+          "month": 1,
+          "retention": 88.9
+        },
+        {
+          "month": 2,
+          "retention": 94.4
+        },
+        {
+          "month": 3,
+          "retention": 61.1
+        },
+        {
+          "month": 4,
+          "retention": 72.2
+        },
+        {
+          "month": 5,
+          "retention": 83.3
+        },
+        {
+          "month": 6,
+          "retention": 72.2
+        },
+        {
+          "month": 7,
+          "retention": 88.9
+        },
+        {
+          "month": 8,
+          "retention": 83.3
+        },
+        {
+          "month": 9,
+          "retention": 77.8
+        },
+        {
+          "month": 10,
+          "retention": 83.3
+        },
+        {
+          "month": 11,
+          "retention": 77.8
+        },
+        {
+          "month": 12,
+          "retention": 66.7
+        },
+        {
+          "month": 13,
+          "retention": 77.8
+        },
+        {
+          "month": 14,
+          "retention": 83.3
+        },
+        {
+          "month": 15,
+          "retention": 83.3
+        },
+        {
+          "month": 16,
+          "retention": 83.3
+        },
+        {
+          "month": 17,
+          "retention": 94.4
+        },
+        {
+          "month": 18,
+          "retention": 77.8
+        },
+        {
+          "month": 19,
+          "retention": 66.7
+        }
+      ]
+    },
+    {
+      "cohort": "2023-03",
+      "data": [
+        {
+          "month": 0,
+          "retention": 97.3
+        },
+        {
+          "month": 1,
+          "retention": 86.5
+        },
+        {
+          "month": 2,
+          "retention": 97.3
+        },
+        {
+          "month": 3,
+          "retention": 75.7
+        },
+        {
+          "month": 4,
+          "retention": 81.1
+        },
+        {
+          "month": 5,
+          "retention": 75.7
+        },
+        {
+          "month": 6,
+          "retention": 78.4
+        },
+        {
+          "month": 7,
+          "retention": 81.1
+        },
+        {
+          "month": 8,
+          "retention": 62.2
+        },
+        {
+          "month": 9,
+          "retention": 75.7
+        },
+        {
+          "month": 10,
+          "retention": 67.6
+        },
+        {
+          "month": 11,
+          "retention": 67.6
+        },
+        {
+          "month": 12,
+          "retention": 75.7
+        },
+        {
+          "month": 13,
+          "retention": 78.4
+        },
+        {
+          "month": 14,
+          "retention": 64.9
+        },
+        {
+          "month": 15,
+          "retention": 81.1
+        },
+        {
+          "month": 16,
+          "retention": 70.3
+        },
+        {
+          "month": 17,
+          "retention": 75.7
+        },
+        {
+          "month": 18,
+          "retention": 75.7
+        },
+        {
+          "month": 19,
+          "retention": 8.1
+        }
+      ]
+    },
+    {
+      "cohort": "2023-04",
+      "data": [
+        {
+          "month": 0,
+          "retention": 98.0
+        },
+        {
+          "month": 1,
+          "retention": 100.0
+        },
+        {
+          "month": 2,
+          "retention": 89.8
+        },
+        {
+          "month": 3,
+          "retention": 91.8
+        },
+        {
+          "month": 4,
+          "retention": 71.4
+        },
+        {
+          "month": 5,
+          "retention": 77.6
+        },
+        {
+          "month": 6,
+          "retention": 83.7
+        },
+        {
+          "month": 7,
+          "retention": 85.7
+        },
+        {
+          "month": 8,
+          "retention": 75.5
+        },
+        {
+          "month": 9,
+          "retention": 75.5
+        },
+        {
+          "month": 10,
+          "retention": 75.5
+        },
+        {
+          "month": 11,
+          "retention": 71.4
+        },
+        {
+          "month": 12,
+          "retention": 79.6
+        },
+        {
+          "month": 13,
+          "retention": 71.4
+        },
+        {
+          "month": 14,
+          "retention": 81.6
+        },
+        {
+          "month": 15,
+          "retention": 79.6
+        },
+        {
+          "month": 16,
+          "retention": 89.8
+        },
+        {
+          "month": 17,
+          "retention": 75.5
+        },
+        {
+          "month": 18,
+          "retention": 6.1
+        }
+      ]
+    },
+    {
+      "cohort": "2023-05",
+      "data": [
+        {
+          "month": 0,
+          "retention": 100.0
+        },
+        {
+          "month": 1,
+          "retention": 94.2
+        },
+        {
+          "month": 2,
+          "retention": 79.7
+        },
+        {
+          "month": 3,
+          "retention": 76.8
+        },
+        {
+          "month": 4,
+          "retention": 73.9
+        },
+        {
+          "month": 5,
+          "retention": 78.3
+        },
+        {
+          "month": 6,
+          "retention": 71.0
+        },
+        {
+          "month": 7,
+          "retention": 82.6
+        },
+        {
+          "month": 8,
+          "retention": 75.4
+        },
+        {
+          "month": 9,
+          "retention": 72.5
+        },
+        {
+          "month": 10,
+          "retention": 68.1
+        },
+        {
+          "month": 11,
+          "retention": 79.7
+        },
+        {
+          "month": 12,
+          "retention": 76.8
+        },
+        {
+          "month": 13,
+          "retention": 76.8
+        },
+        {
+          "month": 14,
+          "retention": 79.7
+        },
+        {
+          "month": 15,
+          "retention": 75.4
+        },
+        {
+          "month": 16,
+          "retention": 68.1
+        },
+        {
+          "month": 17,
+          "retention": 7.2
+        }
+      ]
+    },
+    {
+      "cohort": "2023-06",
+      "data": [
+        {
+          "month": 0,
+          "retention": 100.0
+        },
+        {
+          "month": 1,
+          "retention": 95.8
+        },
+        {
+          "month": 2,
+          "retention": 90.1
+        },
+        {
+          "month": 3,
+          "retention": 76.1
+        },
+        {
+          "month": 4,
+          "retention": 81.7
+        },
+        {
+          "month": 5,
+          "retention": 71.8
+        },
+        {
+          "month": 6,
+          "retention": 69.0
+        },
+        {
+          "month": 7,
+          "retention": 80.3
+        },
+        {
+          "month": 8,
+          "retention": 76.1
+        },
+        {
+          "month": 9,
+          "retention": 77.5
+        },
+        {
+          "month": 10,
+          "retention": 71.8
+        },
+        {
+          "month": 11,
+          "retention": 80.3
+        },
+        {
+          "month": 12,
+          "retention": 76.1
+        },
+        {
+          "month": 13,
+          "retention": 78.9
+        },
+        {
+          "month": 14,
+          "retention": 74.6
+        },
+        {
+          "month": 15,
+          "retention": 67.6
+        },
+        {
+          "month": 16,
+          "retention": 5.6
+        }
+      ]
+    }
+  ],
+  "channels": [
+    {
+      "channel": "organic",
+      "users": 1368,
+      "day7_retention": 100.0,
+      "day30_retention": 100.0,
+      "ltv": 13.63
+    },
+    {
+      "channel": "paid_social",
+      "users": 1210,
+      "day7_retention": 100.0,
+      "day30_retention": 100.0,
+      "ltv": 12.28
+    },
+    {
+      "channel": "referral",
+      "users": 422,
+      "day7_retention": 100.0,
+      "day30_retention": 100.0,
+      "ltv": 13.6
+    }
+  ],
+  "onboarding": {
+    "completed": {
+      "count": 1791,
+      "day7": 100.0,
+      "day30": 100.0
+    },
+    "not_completed": {
+      "count": 1209,
+      "day7": 100.0,
+      "day30": 100.0
+    },
+    "lift": {
+      "day7": 0.0,
+      "day30": 0.0
+    }
+  },
+  "ltv": [
+    {
+      "cohort": "2023-01",
+      "ltv": 39.87,
+      "users": 4
+    },
+    {
+      "cohort": "2023-02",
+      "ltv": 13.28,
+      "users": 18
+    },
+    {
+      "cohort": "2023-03",
+      "ltv": 14.64,
+      "users": 37
+    },
+    {
+      "cohort": "2023-04",
+      "ltv": 11.8,
+      "users": 49
+    },
+    {
+      "cohort": "2023-05",
+      "ltv": 10.63,
+      "users": 69
+    },
+    {
+      "cohort": "2023-06",
+      "ltv": 14.97,
+      "users": 71
+    },
+    {
+      "cohort": "2023-07",
+      "ltv": 10.45,
+      "users": 95
+    },
+    {
+      "cohort": "2023-08",
+      "ltv": 13.43,
+      "users": 105
+    },
+    {
+      "cohort": "2023-09",
+      "ltv": 9.49,
+      "users": 104
+    },
+    {
+      "cohort": "2023-10",
+      "ltv": 18.97,
+      "users": 151
+    },
+    {
+      "cohort": "2023-11",
+      "ltv": 12.95,
+      "users": 110
+    },
+    {
+      "cohort": "2023-12",
+      "ltv": 9.14,
+      "users": 147
+    },
+    {
+      "cohort": "2024-01",
+      "ltv": 11.46,
+      "users": 159
+    },
+    {
+      "cohort": "2024-02",
+      "ltv": 17.54,
+      "users": 187
+    },
+    {
+      "cohort": "2024-03",
+      "ltv": 16.28,
+      "users": 200
+    },
+    {
+      "cohort": "2024-04",
+      "ltv": 15.07,
+      "users": 201
+    },
+    {
+      "cohort": "2024-05",
+      "ltv": 13.49,
+      "users": 223
+    },
+    {
+      "cohort": "2024-06",
+      "ltv": 11.36,
+      "users": 237
+    },
+    {
+      "cohort": "2024-07",
+      "ltv": 13.66,
+      "users": 277
+    },
+    {
+      "cohort": "2024-08",
+      "ltv": 13.28,
+      "users": 283
+    },
+    {
+      "cohort": "2024-09",
+      "ltv": 8.36,
+      "users": 273
+    }
+  ]
+}
