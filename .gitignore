@@ -27,3 +27,4 @@ Thumbs.db
 
 # Charts can be regenerated
 charts/*.png
+.vercel
